@@ -9,6 +9,8 @@ public class HelloWorld {
 		System.out.println("Hello master-AAAA");
 
 		System.out.println("Hello hotfix-YYYY");
+		
+		System.out.println("Hello local-BBBBB");
 
 	}
 
